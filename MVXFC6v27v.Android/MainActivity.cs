@@ -4,11 +4,13 @@ using Android.App;
 using Android.Content.PM;
 using Android.Runtime;
 using Android.OS;
+using MvvmCross.Forms.Platforms.Android.Views;
+using MvvmCross.Forms.Platforms.Android.Core;
 
 namespace MVXFC6v27v.Droid
 {
     [Activity(Label = "MVXFC6v27v", Icon = "@mipmap/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation | ConfigChanges.UiMode | ConfigChanges.ScreenLayout | ConfigChanges.SmallestScreenSize)]
-    public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
+    public class MainActivity : MvxFormsAppCompatActivity<MvxFormsAndroidSetup<Core.App,UI.MvxFormsApp>,Core.App,UI.MvxFormsApp>
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {

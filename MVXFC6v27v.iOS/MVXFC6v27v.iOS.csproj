@@ -128,12 +128,19 @@
     <PackageReference Include="MvvmCross">
       <Version>6.4.2</Version>
     </PackageReference>
+    <PackageReference Include="MvvmCross.Forms">
+      <Version>6.4.2</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\MVXFC6v27v\MVXFC6v27v.csproj">
       <Project>{6EB568F5-14D0-44F0-AA30-4F98963E0AC2}</Project>
       <Name>MVXFC6v27v.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MVXFC6v7v.UI\MVXFC6v7v.UI.csproj">
+      <Project>{7C2D9BB8-8489-44E9-91DD-9E13EC542C9E}</Project>
+      <Name>MVXFC6v7v.UI</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

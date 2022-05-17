@@ -1,0 +1,13 @@
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/actool/_PartialAppManifest.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/actool/_BundleResourceWithLogicalName.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/actool/_ProcessedImageAssetsPath.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/coremlc/_PartialAppManifest.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/coremlc/_BundleResourceWithLogicalName.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/_ProcessedBundleResourcesPath.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/_ProcessedContentPath.items
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 13 mini-15.2/optimized/
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/MVXFC6v27v.iOS.csproj.AssemblyReference.cache
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v.iOS/obj/iPhoneSimulator/Debug/MVXFC6v27v.iOS.csproj.CoreCompileInputs.cache

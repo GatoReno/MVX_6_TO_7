@@ -1,0 +1,15 @@
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/bin/Debug/netstandard2.0/MVXFC6v27v.CORE.deps.json
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/bin/Debug/netstandard2.0/MVXFC6v27v.CORE.dll
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/bin/Debug/netstandard2.0/ref/MVXFC6v27v.CORE.dll
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/bin/Debug/netstandard2.0/MVXFC6v27v.CORE.pdb
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.csproj.AssemblyReference.cache
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.AssemblyInfoInputs.cache
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.AssemblyInfo.cs
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.csproj.CoreCompileInputs.cache
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.dll
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/ref/MVXFC6v27v.CORE.dll
+/Users/ed/Projects/MVXFC6v27v/MVXFC6v27v/obj/Debug/netstandard2.0/MVXFC6v27v.CORE.pdb

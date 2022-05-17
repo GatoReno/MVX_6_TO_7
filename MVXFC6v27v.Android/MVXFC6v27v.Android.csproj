@@ -51,11 +51,15 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Numerics" />
     <Reference Include="System.Numerics.Vectors" />
+    <Reference Include="Mono.Android.Export" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
     <PackageReference Include="MvvmCross">
+      <Version>6.4.2</Version>
+    </PackageReference>
+    <PackageReference Include="MvvmCross.Forms">
       <Version>6.4.2</Version>
     </PackageReference>
   </ItemGroup>
@@ -92,6 +96,10 @@
     <ProjectReference Include="..\MVXFC6v27v\MVXFC6v27v.csproj">
       <Project>{6EB568F5-14D0-44F0-AA30-4F98963E0AC2}</Project>
       <Name>MVXFC6v27v.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MVXFC6v7v.UI\MVXFC6v7v.UI.csproj">
+      <Project>{7C2D9BB8-8489-44E9-91DD-9E13EC542C9E}</Project>
+      <Name>MVXFC6v7v.UI</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
